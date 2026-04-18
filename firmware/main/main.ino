@@ -7,7 +7,7 @@
 // ==========================================
 // CONFIGURACIÓN DE MODO
 // ==========================================
-#define MODO_MQTT  // Comenta esta línea para usar solo SERIAL
+//#define MODO_MQTT  // Comenta esta línea para usar solo SERIAL
 
 #ifdef MODO_MQTT
   #include <WiFi.h>
