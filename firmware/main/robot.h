@@ -12,7 +12,7 @@ class Robot {
 private:
     // Servos y Pines
     Servo servos[7];
-    const int pins[7] = {4, 16, 17, 18, 19, 23, 13}; // S1 a S7 [cite: 2]
+    const int pins[7] = {4, 16, 17, 18, 19, 23, 13}; // S1 a S7
     
     // Sensores
     MAX30105 particleSensor;
