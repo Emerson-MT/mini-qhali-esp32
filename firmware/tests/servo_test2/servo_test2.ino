@@ -20,7 +20,7 @@
 Servo servo1; // Servo de mano fija. Inicial en 90 grados. Rango de 0 a 180 (Apuntando hacia la izquierda viendo a MiniQHali de frente, apuntando a la derecha viendo a MiniQhali de frente)
 Servo servo2; // Servo del cuello (asentir) Inicial 90 grados. Rango de 60 a 110 (Abajo hacia arriba)
 Servo servo3; // Servo del cuello (negación) Inicial 90 grados. Rango de 50 a 130 (Izquierda a derecha)
-Servo servo4; // Servo del hombro (Extención) Inicial 90 graos. Rango de 0 a 180 (Hacia atrás, hacia el frente)
+Servo servo4; // Servo del hombro (Extención) Inicial 180 graos. Rango de 0 a 180 (Hacia atrás, hacia el frente)
 Servo servo5; // Servo del hombro (Abducción) Inicial 90 grados. Rango 30 - 180 (hacia arriba, hacia abajo)
 Servo servo6; // Servo de la muñeca móvil. Inicial 90 grados. Rango 0 a 180 grados
 Servo servo7; // Servo de los dedos de brazo móvil. Por determinar
